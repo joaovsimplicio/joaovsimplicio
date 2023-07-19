@@ -1,9 +1,10 @@
 ### Hello World! 😎✌🏻
-- 💻 My name is João Vitor
+- 💻 My name is João Vitor, I am from Brazil - sp, and and I'm just a young programmer!
 - 💬 Math and Programming student
 - 🧑‍💻 Data Science
 ##
-
+😁 Since you're here, take the opportunity to get to know some of my projects that I've learned to develop!! 🥳
+##
 <div>
 <p>
 
@@ -19,6 +20,9 @@
   <img align="center" alt="Joao-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Joao-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Joao-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Joao-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+
+  
   
   <img align="right" alt="Joao-gif" height="150" style="border-radius:50px;" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTM5NDc2NGExZjE2OWQ2MzA1MTAwNzFlMDY5NzU0ZTFkY2VjZTU5YyZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
   
