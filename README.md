@@ -1,7 +1,7 @@
 ### Hello World! 😎✌🏻
 - 💻 My name is João Vitor, I am from Brazil - sp, and and I'm just a young programmer!
-- 💬 Math and Programming student
-- 🧑‍💻 Data Science
+- 💬 Passionate about computer science and programming, I'm currently studying Information Systems at the University of São Paulo (USP).
+- 🧑‍💻 Software Engineer
 ##
 😁 Since you're here, take the opportunity to get to know some of my projects that I've learned to develop!! 🥳
 ##
