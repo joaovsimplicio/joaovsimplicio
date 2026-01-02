@@ -40,13 +40,5 @@ I am a **Full Stack Developer** based in **Brazil 🇧🇷** with a global minds
 
 ---
 
-## 📊 GitHub Stats
-<p align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=joaovsimplicio&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Joao's Stats" height="170" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovsimplicio&layout=compact&theme=dark" alt="Top Languages" height="170" />
-</p>
-
----
-
 ## 🔗 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/simpliciojoao/)
